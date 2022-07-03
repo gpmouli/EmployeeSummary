@@ -16,6 +16,11 @@ Using React JS as the JavaScript framework (with react-router for views manageme
 stage-management and Redux Hook Form) and Antd as the CSS framework, code a
 “Employee” manager.
 
+Reusable CommonComponents,
+Folder Structure,
+Dynamic Summary List using with Antd Table
+Used with react-hook-form
+
 ### Employee Summary
 <img width="1094" alt="Screenshot 2022-07-04 at 3 22 45 AM" src="https://user-images.githubusercontent.com/11731027/177054780-9ec6ca58-ced0-416d-8572-5114ce8a515b.png">
 
